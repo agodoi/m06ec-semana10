@@ -204,17 +204,15 @@ Esse é um tema que chama a atenção.
 
 ### Compare
 
-![Image](https://images.openai.com/static-rsc-4/kOhm-UXHhXWxgUVdc5FVa6HYQE_nhErshIgZH5yEhgY3jCKaRilNk8UIkzmtxdghSITdyzdcloWTV23IazFn0dzCXRhy44SvAAOGxWygXSQhQgLTvgwra4jUWPxd_R5a4vLfcRBL1JnrbkQYGFwezSLY5-6Df-gMlXpBDEisPwdG_3AitPLXwDqslQ7RO7fV?purpose=fullsize)
-
 <img src="https://images.openai.com/static-rsc-4/kOhm-UXHhXWxgUVdc5FVa6HYQE_nhErshIgZH5yEhgY3jCKaRilNk8UIkzmtxdghSITdyzdcloWTV23IazFn0dzCXRhy44SvAAOGxWygXSQhQgLTvgwra4jUWPxd_R5a4vLfcRBL1JnrbkQYGFwezSLY5-6Df-gMlXpBDEisPwdG_3AitPLXwDqslQ7RO7fV" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/tLAVCPPOvSZWk2sfaarvSUO5bEG3S5rnTQnXckEEy9MK8sUVHs_MAYAmQ1xa-vZC918WdzR99lKPn0Q_JO7UIWn_g54ZrV0PCq8SS48KlMs4PmeBnTyKG_HvEuzZWYMQEU7vlNGI_o5MC7koX3XpDjb5DGK5PgGGAPcsAZBwqQ0zI8i0GVlxElWGiElw81QE?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/tLAVCPPOvSZWk2sfaarvSUO5bEG3S5rnTQnXckEEy9MK8sUVHs_MAYAmQ1xa-vZC918WdzR99lKPn0Q_JO7UIWn_g54ZrV0PCq8SS48KlMs4PmeBnTyKG_HvEuzZWYMQEU7vlNGI_o5MC7koX3XpDjb5DGK5PgGGAPcsAZBwqQ0zI8i0GVlxElWGiElw81QE" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/Xj-pqveP3fGswA5UvbtxV1QrG9iyegI-RGKFmDojAcYjCtn_3pl70r1oc7klqOioiJ-Do8hpAsr6zXA5Tc3Ze-cUWuJDis1_XWN2OuAg-BVqhZ700HDNe_-_t4hn6-vqKvx_ZU7dp3tbBRabkMjJUz7Rs5-XB2vhwZZOfWNyUzoc1j0c4B3yekJnjLd2Iwem?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/Xj-pqveP3fGswA5UvbtxV1QrG9iyegI-RGKFmDojAcYjCtn_3pl70r1oc7klqOioiJ-Do8hpAsr6zXA5Tc3Ze-cUWuJDis1_XWN2OuAg-BVqhZ700HDNe_-_t4hn6-vqKvx_ZU7dp3tbBRabkMjJUz7Rs5-XB2vhwZZOfWNyUzoc1j0c4B3yekJnjLd2Iwem" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/PTnuFfmm_HYIPbrRdKH5GIpMDzoiWY3jCv2_GWZLakijAeB3vTVVnQOf1JHs7c3HjgKKSWUW9rI0gQOkA5KoNEvNVIpS76-6aDhLwtFYr9-C-ySzszzkn5YbuTfm6XptzAFYO90FaNxRObLltNUgmeKe4_-tlfGNvBC5u74lkfoNqWUES4Sj6GpWF1MHj5i2?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/PTnuFfmm_HYIPbrRdKH5GIpMDzoiWY3jCv2_GWZLakijAeB3vTVVnQOf1JHs7c3HjgKKSWUW9rI0gQOkA5KoNEvNVIpS76-6aDhLwtFYr9-C-ySzszzkn5YbuTfm6XptzAFYO90FaNxRObLltNUgmeKe4_-tlfGNvBC5u74lkfoNqWUES4Sj6GpWF1MHj5i2" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/I2dE0arIc72DJ4_qA6-8vN8KGbk2EbijZcNhmIN2PAEj_ae_2TmKBB2s5W4niWhvdkfYFnDeAhQBEF9p2oAdS58N3VtfbQ98oPponyNcrkS5Ivg93VlZBrYOvSQ-THGcmiyJJ0UBMUqEJtXsNfeKUJRCsqp1QddHG0niAiTg38QAc_L2m2yejti5kIy09rQI?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/I2dE0arIc72DJ4_qA6-8vN8KGbk2EbijZcNhmIN2PAEj_ae_2TmKBB2s5W4niWhvdkfYFnDeAhQBEF9p2oAdS58N3VtfbQ98oPponyNcrkS5Ivg93VlZBrYOvSQ-THGcmiyJJ0UBMUqEJtXsNfeKUJRCsqp1QddHG0niAiTg38QAc_L2m2yejti5kIy09rQI" width="400">
 
 ### Woofer
 
