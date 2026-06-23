@@ -43,15 +43,16 @@ Capacidade de reproduzir graves, médios e agudos.
 
 20 Hz a 20 kHz
 
-![Image](https://images.openai.com/static-rsc-4/_A-IVoGjmmNAxaq-bui_iDxzUz94jpDEHGMtzYPHP1YvpJgqO4RxgC3qechnHwH8mwHt6dBmM5TXhl-HI_RMZHKvUyCpPWVk7a9yg7Dkg8Zy0zwhsyHveNfAZQMOlOOQDBidoSA0QXRxwO7WFq1jU4ccMi12z1S35DgLzjgIv4odcd-w0rHc2FTGCNK3oF9R?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/_A-IVoGjmmNAxaq-bui_iDxzUz94jpDEHGMtzYPHP1YvpJgqO4RxgC3qechnHwH8mwHt6dBmM5TXhl-HI_RMZHKvUyCpPWVk7a9yg7Dkg8Zy0zwhsyHveNfAZQMOlOOQDBidoSA0QXRxwO7WFq1jU4ccMi12z1S35DgLzjgIv4odcd-w0rHc2FTGCNK3oF9R" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/F6wwlGptEjPV4NTyoHc_gcY0SS9NeUtLDsMEP0xV77CeN2ICSJKOnhInTD3XBbWl5clQc1L2VB0Omnq0Kn8gnWI08bS46Th0YF8O07Qmvow8QUdAzruV_FVhAoa6DvVDwkmnZsVZA-jx4z-aD4DPSwr-vKhKZKyPi1fhKAtkHgOCAEHS3047BgNvjUEuwCSu?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/ZjPbR9J2eGIv_i3Almny4Z-UVF_aQnuGyAUxTfNcktlWBxuhAqVXEj7zLE6qfJRy2jOLlGdEqm2k6Ex8Nh7B1w4s1kzgSiqO_oe-9ChIIm5IXp4U6Oya1BeoGqerM2ylAppDWo0P1-SuhZGRP2M0UKuj7C5f6pzCYAwmBG2gTt-Pbast0LXSbB7KZtUGFmc-?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/F6wwlGptEjPV4NTyoHc_gcY0SS9NeUtLDsMEP0xV77CeN2ICSJKOnhInTD3XBbWl5clQc1L2VB0Omnq0Kn8gnWI08bS46Th0YF8O07Qmvow8QUdAzruV_FVhAoa6DvVDwkmnZsVZA-jx4z-aD4DPSwr-vKhKZKyPi1fhKAtkHgOCAEHS3047BgNvjUEuwCSu" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/nESK4HP9MmLHlXYV5CFWl-MyEg6zPL2amjkw_JqTBGnKN6nxMqNXOwGi2rTqtEfIZbGUtoH4NpgNFr1QiK1YRilDm58vGlRVJWyHrIbtzHaSAHtRW3gxj-ZO3DmhliTvlguLtMZj6NZjLj8PCES2A2rCVcnE-k89UJuxvzCArb60IGNpwwSBAcsBTi0oaZ-J?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/ZjPbR9J2eGIv_i3Almny4Z-UVF_aQnuGyAUxTfNcktlWBxuhAqVXEj7zLE6qfJRy2jOLlGdEqm2k6Ex8Nh7B1w4s1kzgSiqO_oe-9ChIIm5IXp4U6Oya1BeoGqerM2ylAppDWo0P1-SuhZGRP2M0UKuj7C5f6pzCYAwmBG2gTt-Pbast0LXSbB7KZtUGFmc-" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/d03gNLEPvOWq6LAZc6nGx-0PwSUv_izVjZBALHttcRwqvynTiiPo1IPGEzmfTRYhijqLFUXwYZkSgUzKQ_qzmyXbCpq-fYWCjew7aQDjNcR-Lzx5DInQkbaCWPNrEfRNgWGPqwQPDmPRb-R8NbaoR6azHoLl5F-XzdcLGIYx_Gz9OCUchzwBMA2Gt1AEGdDl?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/nESK4HP9MmLHlXYV5CFWl-MyEg6zPL2amjkw_JqTBGnKN6nxMqNXOwGi2rTqtEfIZbGUtoH4NpgNFr1QiK1YRilDm58vGlRVJWyHrIbtzHaSAHtRW3gxj-ZO3DmhliTvlguLtMZj6NZjLj8PCES2A2rCVcnE-k89UJuxvzCArb60IGNpwwSBAcsBTi0oaZ-J" width="400">
+
+<img src="https://images.openai.com/static-rsc-4/d03gNLEPvOWq6LAZc6nGx-0PwSUv_izVjZBALHttcRwqvynTiiPo1IPGEzmfTRYhijqLFUXwYZkSgUzKQ_qzmyXbCpq-fYWCjew7aQDjNcR-Lzx5DInQkbaCWPNrEfRNgWGPqwQPDmPRb-R8NbaoR6azHoLl5F-XzdcLGIYx_Gz9OCUchzwBMA2Gt1AEGdDl" width="400">
 
 ### Relação
 
