@@ -230,6 +230,8 @@ Subgraves
 
 Cada alto-falante trabalha em uma faixa.
 
+<img src="https://github.com/agodoi/m06ec-semana10/blob/main/assets/altofalante.png" width="400">
+
 
 # 10. Por que a caixa influencia tanto?
 
