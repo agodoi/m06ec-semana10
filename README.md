@@ -165,15 +165,16 @@ Parte da energia vira:
 
 Observe as formas de onda do osciloscópio do roteiro. 
 
-![Image](https://images.openai.com/static-rsc-4/g_yksmZxPkQpkKtVFLilYH5OmhpE05msFUCwKGRRdMI_BOGvgfCelyDj2gq6uD5oFRjbyVYDgwiiYT9XfOyKAF1yWd8KabmQxe3IILm5EbKlLbvg7AMkHvRRkCiCpM_BTGQb2mrk8VbAfA74nVMQL4yRDTqg41Ft6qGPVG7HJIe0x0mLXbtQDByput9pqCuB?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/g_yksmZxPkQpkKtVFLilYH5OmhpE05msFUCwKGRRdMI_BOGvgfCelyDj2gq6uD5oFRjbyVYDgwiiYT9XfOyKAF1yWd8KabmQxe3IILm5EbKlLbvg7AMkHvRRkCiCpM_BTGQb2mrk8VbAfA74nVMQL4yRDTqg41Ft6qGPVG7HJIe0x0mLXbtQDByput9pqCuB" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/PPYXAVpd-zcjaiLLnAozzU1sGettnTuNybLXAobaMgELLeVf4vpJhxWzLygLW85xKnSYvrXNUhIMe418gv14QAFTX9UAu00F5t9zKCrK_hylDQZVfczz6W2G22eGRLJMmENXDz8krcoWK7p0qXNXpfRaCUmgItpIzSWn0uMyl0QNeIF1WjVYQ7oo_b-IogPO?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/PPYXAVpd-zcjaiLLnAozzU1sGettnTuNybLXAobaMgELLeVf4vpJhxWzLygLW85xKnSYvrXNUhIMe418gv14QAFTX9UAu00F5t9zKCrK_hylDQZVfczz6W2G22eGRLJMmENXDz8krcoWK7p0qXNXpfRaCUmgItpIzSWn0uMyl0QNeIF1WjVYQ7oo_b-IogPO" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/6DPF7ywHMAmiMCaySDKiA7DeIM28I0wYsWRoR79LzJW1tG-T0mVjp9I-TttDRJT6wb7AKB1KKfDtoTug5yaeRI32d6kUxItYzLzUt9LqopStN6tL4CMdBrHgb7lbN6QOQIPS9NcuaIdrS0xJiI2XHln-eHtiOIVP4_OBJ9KBUkSiUBE2vsI8X4hvecVOis_h?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/6DPF7ywHMAmiMCaySDKiA7DeIM28I0wYsWRoR79LzJW1tG-T0mVjp9I-TttDRJT6wb7AKB1KKfDtoTug5yaeRI32d6kUxItYzLzUt9LqopStN6tL4CMdBrHgb7lbN6QOQIPS9NcuaIdrS0xJiI2XHln-eHtiOIVP4_OBJ9KBUkSiUBE2vsI8X4hvecVOis_h" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/HqXpVs2HQhfr_-Yxi_FilGOR1ZWCp0svXFbzz6vfUO3JIrymy3qzREiNp_BBsx27te9NstumgkKh4C_IuTMbQhUiFjkM0I3VwSe1PGQw0G59qqhgWPDRx9vWcqcNq5sk49iZjUBsAR0mI6NDl_ml0IU-sKqMbflWYG9AYNHK-pJpvY8QefIQSD1DXZzTYT4V?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/HqXpVs2HQhfr_-Yxi_FilGOR1ZWCp0svXFbzz6vfUO3JIrymy3qzREiNp_BBsx27te9NstumgkKh4C_IuTMbQhUiFjkM0I3VwSe1PGQw0G59qqhgWPDRx9vWcqcNq5sk49iZjUBsAR0mI6NDl_ml0IU-sKqMbflWYG9AYNHK-pJpvY8QefIQSD1DXZzTYT4V" width="400">
 
-![Image](https://images.openai.com/static-rsc-4/r30eIpm-wmH5zJEgV7deh5WYP0pYL_t8G-2a0RRIDnrZNQ-9M_lDTFHkHu_NVX2bOILriM2vqZ_PNSrwQZA_3Gijo2U-Le8xALBj_waYNqlY6YVKEV8pmZr2NA3RntZ8fwzVu9nKxsmCx9_N6gAiJe_pJfI9ehRjALdsXA6HHKgAWHeEF7b5-Q8FYbE5XniF?purpose=fullsize)
+<img src="https://images.openai.com/static-rsc-4/r30eIpm-wmH5zJEgV7deh5WYP0pYL_t8G-2a0RRIDnrZNQ-9M_lDTFHkHu_NVX2bOILriM2vqZ_PNSrwQZA_3Gijo2U-Le8xALBj_waYNqlY6YVKEV8pmZr2NA3RntZ8fwzVu9nKxsmCx9_N6gAiJe_pJfI9ehRjALdsXA6HHKgAWHeEF7b5-Q8FYbE5XniF"  width="400">
+
 
 ### Observe
 
@@ -205,8 +206,6 @@ Esse é um tema que chama a atenção.
 ### Compare
 
 <img src="https://images.openai.com/static-rsc-4/kOhm-UXHhXWxgUVdc5FVa6HYQE_nhErshIgZH5yEhgY3jCKaRilNk8UIkzmtxdghSITdyzdcloWTV23IazFn0dzCXRhy44SvAAOGxWygXSQhQgLTvgwra4jUWPxd_R5a4vLfcRBL1JnrbkQYGFwezSLY5-6Df-gMlXpBDEisPwdG_3AitPLXwDqslQ7RO7fV" width="400">
-
-<img src="https://images.openai.com/static-rsc-4/tLAVCPPOvSZWk2sfaarvSUO5bEG3S5rnTQnXckEEy9MK8sUVHs_MAYAmQ1xa-vZC918WdzR99lKPn0Q_JO7UIWn_g54ZrV0PCq8SS48KlMs4PmeBnTyKG_HvEuzZWYMQEU7vlNGI_o5MC7koX3XpDjb5DGK5PgGGAPcsAZBwqQ0zI8i0GVlxElWGiElw81QE" width="400">
 
 <img src="https://images.openai.com/static-rsc-4/Xj-pqveP3fGswA5UvbtxV1QrG9iyegI-RGKFmDojAcYjCtn_3pl70r1oc7klqOioiJ-Do8hpAsr6zXA5Tc3Ze-cUWuJDis1_XWN2OuAg-BVqhZ700HDNe_-_t4hn6-vqKvx_ZU7dp3tbBRabkMjJUz7Rs5-XB2vhwZZOfWNyUzoc1j0c4B3yekJnjLd2Iwem" width="400">
 
